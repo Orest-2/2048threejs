@@ -2,26 +2,28 @@
 
 3D 2048 game made with Vue, Three.js and TypeScript
 
+### [Demo](https://wizardly-newton-9d13e7.netlify.app/)
+
 ## Project setup
 
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 
 ```
-yarn run serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 
 ```
-yarn run build
+npm run build
 ```
 
 ### Lints and fixes files
 
 ```
-yarn run lint
+npm run lint
 ```
